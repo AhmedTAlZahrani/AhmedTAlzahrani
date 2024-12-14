@@ -8,8 +8,9 @@
 - Building solutions that solve business challenges.  
 
 🚀 **About Me**  
-- Experienced in **data management**, **optimization**, and **project development**.  
-- Passionate about applying Lean Six Sigma methodologies to deliver **efficient, innovative solutions**.  
+- Focused on optimizing transportation systems for efficiency and sustainability.  
+- Experienced in implementing Lean Six Sigma methodologies for **data-driven projects**.  
+- Passionate about reducing carbon emissions and enhancing mobility solutions.  
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyat/)
