@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋  
+**Business Development & Data Management Expert | Lean Six Sigma Black Belt**  
 
-<!--
-**AhmedTAlZahrani/AhmedTAlzahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 **What I’m Learning**  
+- GitHub workflows and version control.  
+- Building solutions that solve business challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **About Me**  
+- Experienced in **data management**, **optimization**, and **project development**.  
+- Passionate about applying Lean Six Sigma methodologies to deliver **efficient, innovative solutions**.  
+
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyat/)
+
+---
+
+## 🌟 **Projects In Progress**  
+1. **Green Mobility Impact Solutions**  
+   - Exploring ways to improve sustainable transportation systems.  
+
+2. **Lean Six Sigma Tools Repository**  
+   - Providing templates and guides for beginners.  
+
+3. **Business Optimization Dashboard**  
+   - Visualizing and analyzing business performance metrics.  
+
+---
+
+🛠 **Skills & Tools**  
+- **Data Management** | **Business Development** | **Lean Six Sigma**  
+- **Problem Solving** | **Project Optimization** | **Strategic Planning**  
+
+📈 **Goals**  
+- Continuously improve my skills through **hands-on projects**.  
+- Share valuable resources and tools that inspire collaboration.  
+
+---
+
+📫 **How to Reach Me:**  
+- LinkedIn: [Ahmed Yat](https://www.linkedin.com/in/ahmedyat/)  
+- GitHub: [AhmedTAlzahrani](https://github.com/AhmedTAlzahrani)  
