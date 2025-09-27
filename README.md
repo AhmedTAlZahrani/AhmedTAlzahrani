@@ -1,44 +1,47 @@
 # Hi, I'm Ahmed 👋  
-**Business Development & Data Management Expert | Lean Six Sigma Black Belt**  
+**Project Manager | Business Development & Data Systems Expert | Lean Six Sigma Black Belt**
 
 ---
 
-🌱 **What I’m Learning**  
-- GitHub workflows and version control.  
-- Building solutions that solve business challenges.  
+## 🚀 About Me  
+I specialize in **optimizing transportation systems** and **developing sustainable mobility solutions**.  
+My background combines **data analytics, Lean Six Sigma methodologies, and project management** to deliver solutions that improve efficiency, cut costs, and reduce carbon emissions.  
 
-🚀 **About Me**  
-- Focused on optimizing transportation systems for efficiency and sustainability.  
-- Experienced in implementing Lean Six Sigma methodologies for **data-driven projects**.  
-- Passionate about reducing carbon emissions and enhancing mobility solutions.  
-
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyat/)
+- 🌍 Driving initiatives in **green mobility and sustainable transport**.  
+- 📊 Experienced in **business process optimization** and **data-driven decision-making**.  
+- 🎯 Skilled in **Public-Private Partnerships (PPP)**, **policy design**, and **strategic planning**.  
 
 ---
 
-## 🌟 **Projects In Progress**  
-1. **Green Mobility Impact Solutions**  
-   - Exploring ways to improve sustainable transportation systems.  
+## 🌟 Featured Projects  
+1. **Traffic Congestion Analyzer**  
+   - Analyzes annual hours lost per commuter across global cities.  
+   - Uses Python (pandas, matplotlib) for KPIs and visualizations.  
 
-2. **Lean Six Sigma Tools Repository**  
-   - Providing templates and guides for beginners.  
+2. **Green Mobility Impact Analyzer**  
+   - Compares CO₂ emissions of different transport modes.  
+   - Focused on **technology-neutral, sustainable mobility planning**.  
 
-3. **Business Optimization Dashboard**  
-   - Visualizing and analyzing business performance metrics.  
-
----
-
-🛠 **Skills & Tools**  
-- **Data Management** | **Business Development** | **Lean Six Sigma**  
-- **Problem Solving** | **Project Optimization** | **Strategic Planning**  
-
-📈 **Goals**  
-- Continuously improve my skills through **hands-on projects**.  
-- Share valuable resources and tools that inspire collaboration.  
+3. **Lean Six Sigma Toolkit**  
+   - Templates and practical guides for applying **continuous improvement** methods.  
 
 ---
 
-📫 **How to Reach Me:**  
-- LinkedIn: [Ahmed Yat](https://www.linkedin.com/in/ahmedyat/)  
-- GitHub: [AhmedTAlzahrani](https://github.com/AhmedTAlzahrani)  
+## 🛠 Skills & Tools  
+- **Transportation Systems** | **Sustainability** | **PPP Frameworks**  
+- **Data Analytics (Python, Pandas, Matplotlib)**  
+- **Lean Six Sigma Black Belt** | **Process Optimization**  
+- **Strategic Planning & Business Development**  
+
+---
+
+## 📈 Goals  
+- Build open-source tools that **support sustainable mobility decisions**.  
+- Share resources that combine **engineering, data science, and business strategy**.  
+- Collaborate on projects at the intersection of **technology and sustainability**.  
+
+---
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyat/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/AhmedTAlzahrani)  
